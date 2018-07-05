@@ -1,0 +1,39 @@
+img{
+	margin:10px 700px;}
+
+h1	{
+	margin-top: 20px;
+	color: blue;
+	text-align: center;
+	border: solid red;
+	background: white;
+	font-family: 'Bad Script', cursive;
+
+
+}
+
+h2	{
+	text-align: center;
+	color: black;
+	font-family: 'Bad Script', cursive;
+
+
+}
+p {
+	text-align: center;
+	color: red;
+	font-family: 'Bad Script', cursive;
+
+
+}
+h3{
+	text-align: center;
+	color: black;
+	font-family: 'Bad Script', cursive;
+
+
+}
+a {
+align-content: center;
+}
+
